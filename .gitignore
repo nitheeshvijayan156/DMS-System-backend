@@ -1,0 +1,6 @@
+venv/
+.env
+endpoints/constants.py
+rag/__pycache__
+ocr/__pycache__
+.idea/
